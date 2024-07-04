@@ -1,3 +1,3 @@
 # statistical-learning
 
-Regression bascis: OLS, Lasso, Ridge
+Regression basics: OLS, Lasso, Ridge
